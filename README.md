@@ -1,3 +1,4 @@
+![logo](https://github.com/suleman525/suleman525/blob/main/WhatsApp%20Image%202026-10-25%20at%2010.25.58%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm suleman</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/8215cdf9-dc5d-4e24-95eb-59f1c6a5838b" />
